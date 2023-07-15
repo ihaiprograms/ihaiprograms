@@ -1,0 +1,4 @@
+- Hi, I’m @ihaiprograms
+- I like programming
+- I am learning python
+- learning things
